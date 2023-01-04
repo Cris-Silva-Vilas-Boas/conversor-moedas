@@ -17,7 +17,7 @@ const SignIn: React.FC = () =>{
                  <h2>Conversor de moedas</h2>
             </Logo>
             <Form onSubmit={() => signIn(email, password)}>
-                <FormTitle>Entrar</FormTitle>
+                <FormTitle></FormTitle>
                 <Input 
                     type ="email"
                     required

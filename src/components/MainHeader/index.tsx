@@ -7,7 +7,6 @@ import {
 import emojis from '../../utils/emojis';
 import Toggle from '../Toggle';
 import { useTheme } from '../../hooks/theme';
-import dark from '../../styles/themes/dark';
 
 
 const Content: React.FC = () =>{
