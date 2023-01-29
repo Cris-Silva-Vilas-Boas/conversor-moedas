@@ -8,7 +8,7 @@ export const Content = styled.div`
 
 export const Form = styled.form`
     width: 400px;
-    height: 400px;
+    height: 300px;
     padding: 30px;
     border-radius: 10px;
     margin-top: 100px;
